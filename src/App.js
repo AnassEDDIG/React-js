@@ -1,4 +1,4 @@
-
+import 'bootstrap.min.css' 
 import { useState } from 'react';
 function App() {
   const [a,setA]=useState();
